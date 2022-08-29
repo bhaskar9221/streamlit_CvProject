@@ -5,6 +5,6 @@ This webapp also has an option to improve our selected image.
 
 
 In order to run the app please enter the following command into the terminal:
-           streamlit run streamlit_CvProject.py
+streamlit run streamlit_CvProject.py
            
 Also make sure u have streamlit and other important dependencies intalled.           
