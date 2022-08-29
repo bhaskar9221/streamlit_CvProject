@@ -1,7 +1,3 @@
-pip install pillow
-pip install opencv-python
-
-
 import cv2
 import streamlit as st
 import numpy as np
